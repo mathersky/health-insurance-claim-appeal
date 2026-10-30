@@ -1,5 +1,11 @@
+updated 5863
 # 健保門診醫療費用點數申復清單－自動填寫工具
 # NHI Outpatient Claim Point Appeal Form Helper
+
+## 快速下載 / Quick download
+
+- [下載單一 HTML 工具 / Download the standalone HTML tool](./health-insurance-claim-appeal.html)
+- [下載完整 ZIP 套件 / Download the complete ZIP package](./health-insurance-claim-appeal-github-ready.zip)
 
 ## 中文使用說明
 
